@@ -16,9 +16,9 @@ How to import data from a website:
 
 
 What is included in the code:
-1. city_id,state_id
+1. city_id.csv, state_id.csv: give the ids for different provinces and cities used in other codes
 
-2. curve.ipynb/curve.py : get the migration index of this year and the previous year for a city with city id and migration type, you can change the id and type in the script. Type has two kinds, one is 'move_in' and another one is 'move_out'. And id is explained in the later text.
+2. curve.ipynb/curve.py : get the migration index of this year and the previous year for a city with city id and migration type, you can change the id and type in the script. Type has two kinds, one is 'move_in' and another one is 'move_out'. And id is explained in the previous code city_id.csv and state_id.csv.
 
 3. : get the migration percentage for a city with city id or province id and type.
 
