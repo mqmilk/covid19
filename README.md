@@ -7,7 +7,7 @@ Data source:
 2. infected data: https://news.qq.com/zt2020/page/feiyan.htm#/
 
 How to import data from a website:
-1. On a website, go to more tools>Developer tools>Network>JS, get the url for api
+1. On a website, go to more tools>Developer tools>Network>JS, get the url for api.
   For example, the history curve which gives the migration index on http://qianxi.baidu.com/ is 'http://huiyan.baidu.com/migration/historycurve.jsonp?dt=city&id=420100&type=move_out'
   
 2. request the url and save the data as a format you want
