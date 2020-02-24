@@ -1,4 +1,6 @@
-# corona2019
+# corona2019 
+Get the data from the web and analyze the infected number of people.
+
 Data source:
 1. migration data: http://qianxi.baidu.com/
 
