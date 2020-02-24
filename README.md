@@ -5,6 +5,7 @@ Data source:
 1. migration data: http://qianxi.baidu.com/
 
 2. infected data: https://news.qq.com
+https://voice.baidu.com/act/newpneumonia/newpneumonia
 
 How to import data from a website:
 1. On a website, go to more tools>Developer tools>Network>JS, get the url for api.
