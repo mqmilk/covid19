@@ -4,7 +4,7 @@ Get the data from the web and analyze the infected number of people.
 Data source:
 1. migration data: http://qianxi.baidu.com/
 
-2. infected data: https://news.qq.com
+2. infected data: https://news.qq.com,
 https://voice.baidu.com/act/newpneumonia/newpneumonia
 
 How to import data from a website:
