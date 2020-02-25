@@ -4,14 +4,13 @@ Get the data from the web and analyze the infected number of people.
 Data source:
 1. migration data: http://qianxi.baidu.com/
 
-2. infected data: https://news.qq.com,
-https://voice.baidu.com/act/newpneumonia/newpneumonia
+2. infected data: https://news.sina.cn/zt_d/yiqing0121
 
 How to import data from a website:
 1. On a website, go to more tools>Developer tools>Network>JS, get the url for api.
   For example, the history curve which gives the migration index on http://qianxi.baidu.com/ is 'http://huiyan.baidu.com/migration/historycurve.jsonp?dt=city&id=420100&type=move_out'.
- 'http://view.inews.qq.com/g2/getOnsInfo?name=disease_h5' is url for the infected number from https://news.qq.com
-  
+ 
+ 
 2. request the url and save the data as a format you want
 
 
