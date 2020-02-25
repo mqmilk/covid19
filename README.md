@@ -24,5 +24,7 @@ What is included in the code:
 
 4. infect.ipynb/infect.py: get the infected number of people in cities ,provinces in China or countries around the world.
 
+5. data_analysis.ipynb/data_analysis.py: analyze the relationship between migration and infection. The script analyzes the province migration data.
+
 
 
