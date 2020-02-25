@@ -22,7 +22,7 @@ What is included in the code:
 
 3. percent.ipynb/percent.py: get the migration top 100 cities/provinces moving in or out a city per day. You can change the rank, id and type to collect different kinds of data.
 
-4. : get the infected number of people in diffent cities and provinces
+4. infect.ipynb/infect.py: get the infected number of people in cities ,provinces in China or countries around the world.
 
 
 
